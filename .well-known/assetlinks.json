@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.asrayacreate.twa",
+      "sha256_cert_fingerprints":
+        ["C9:4F:99:A6:C1:B3:30:84:8D:14:D6:6F:BD:76:18:87:91:FC:CD:A1:FD:D2:63:7F:11:F8:CD:80:A3:F6:A9:D9"]
+    }
+  }
+]
